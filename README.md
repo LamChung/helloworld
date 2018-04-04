@@ -1,2 +1,3 @@
 # helloworld
-test repository
+
+Hello everybody! i'm new to Github. Yoroshiku!
